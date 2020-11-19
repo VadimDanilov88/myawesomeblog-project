@@ -1,0 +1,6 @@
+Migrations for 'blog':
+  blog\migrations\0001_initial.py
+    - Create model Event
+Migrations for 'events':
+  events\migrations\0002_post.py
+    - Create model Post
